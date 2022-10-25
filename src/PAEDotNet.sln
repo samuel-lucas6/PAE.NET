@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAEDotNet", "PAEDotNet\PAEDotNet.csproj", "{0B5663E2-484F-4A6A-8EF5-21611AFDDFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAEDotNetTests", "PAEDotNetTests\PAEDotNetTests.csproj", "{E42218DB-D0FA-475D-B75B-3374A6AF5FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5663E2-484F-4A6A-8EF5-21611AFDDFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5663E2-484F-4A6A-8EF5-21611AFDDFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5663E2-484F-4A6A-8EF5-21611AFDDFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5663E2-484F-4A6A-8EF5-21611AFDDFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42218DB-D0FA-475D-B75B-3374A6AF5FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42218DB-D0FA-475D-B75B-3374A6AF5FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42218DB-D0FA-475D-B75B-3374A6AF5FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42218DB-D0FA-475D-B75B-3374A6AF5FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

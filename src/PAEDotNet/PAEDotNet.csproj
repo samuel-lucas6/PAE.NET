@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Version>1.0.0</Version>
+        <Authors>Samuel Lucas</Authors>
+        <Description>A .NET implementation of Pre-Authentication Encoding.</Description>
+        <Copyright>Copyright (c) 2022 Samuel Lucas</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/PAE.NET</PackageProjectUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <RepositoryUrl>https://github.com/samuel-lucas6/PAE.NET</RepositoryUrl>
+        <PackageTags>authentication message-authentication-codes encoding</PackageTags>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    
+</Project>
